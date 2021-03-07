@@ -1,5 +1,9 @@
 # Taproom Frontend Developer Test Project Specific Info 
-(Also in Taproom Test Readme)
+
+store url: https://nick-development-store.myshopify.com/
+pass: taproom!
+
+
 
 ## Commands
 
