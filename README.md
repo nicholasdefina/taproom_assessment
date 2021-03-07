@@ -4,7 +4,6 @@ store url: https://nick-development-store.myshopify.com/
 pass: taproom!
 
 
-
 ## Commands
 
 * `npm run start`        - Starts Gulp watcher on `scripts` and `styles` directories.
